@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Workspace App Config">e515fc77ea084a1094545dfe77da0c33</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>List drilldown</name>
+        <optional_parameters>listTitle,query,disableInlineEditing</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simplelist</route_type>
+        <screen_type display_value="List drilldown">9515bc77c1084a106d49c85f783fbf63</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:34</sys_created_on>
+        <sys_id>dd15bc770a084a101b9ea468a420d963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List drilldown</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_ux_app_route_dd15bc770a084a101b9ea468a420d963</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:34</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=dd15bc770a084a101b9ea468a420d963"/>
+</record_update>

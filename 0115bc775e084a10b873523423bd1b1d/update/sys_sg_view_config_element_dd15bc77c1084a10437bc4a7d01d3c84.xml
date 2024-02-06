@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_04_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+        <sys_id>dd15bc77c1084a10437bc4a7d01d3c84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_04_element</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_dd15bc77c1084a10437bc4a7d01d3c84</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+        <view_config display_value="Document Approvals View Config">5115bc7787084a109f7adf294de5378f</view_config>
+        <view_template_slot display_value="text_04">1d15bc7711084a105ae20a3371a23784</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

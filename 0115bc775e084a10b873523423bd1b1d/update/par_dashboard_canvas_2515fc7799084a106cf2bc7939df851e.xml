@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Document Approvals">6d15fc77f4084a108df58be5aeefb11e</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2515fc7799084a106cf2bc7939df851e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>par_dashboard_canvas_2515fc7799084a106cf2bc7939df851e</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

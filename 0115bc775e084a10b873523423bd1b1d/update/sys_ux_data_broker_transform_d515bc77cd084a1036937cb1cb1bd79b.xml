@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_snc_testapproval.Heading</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Heading</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[{      "name":"userSessionFirstName",&#13;
+      "label":"User Session",&#13;
+      "description":"User Session",&#13;
+      "readOnly":false,&#13;
+      "fieldType":"object",&#13;
+      "mandatory":true,&#13;
+      "defaultValue":{}&#13;
+   }]</props>
+        <required_translations>[{"message":"User Session","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	
+    return gs.getMessage("{0}'s Document Approvals",input.userSessionFirstName);
+	
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+        <sys_id>d515bc77cd084a1036937cb1cb1bd79b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Heading</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_d515bc77cd084a1036937cb1cb1bd79b</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=d515bc77cd084a1036937cb1cb1bd79b"/>
+</record_update>

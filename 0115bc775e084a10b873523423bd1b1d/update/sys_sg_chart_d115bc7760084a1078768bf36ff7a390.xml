@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <data_visualization/>
+        <jump_to_screen display_value="Navigate to needs attention">1915bc7772084a10aeae6e7e3bf59291</jump_to_screen>
+        <name>Needs Attention</name>
+        <report display_value="Needs Attention">d515bc7760084a1019c95402bfd314a4</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:40</sys_created_on>
+        <sys_id>d115bc7760084a1078768bf36ff7a390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs Attention</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_sg_chart_d115bc7760084a1078768bf36ff7a390</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:40</sys_updated_on>
+        <title>Needs Attention</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

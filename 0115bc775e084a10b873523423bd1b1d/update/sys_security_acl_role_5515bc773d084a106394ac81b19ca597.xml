@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:41</sys_created_on>
+        <sys_id>5515bc773d084a106394ac81b19ca597</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testapproval_document_approver.x_snc_testapproval.approver</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_security_acl display_value="x_snc_testapproval_document_approver">d915bc777e084a1075008a9b1bca039a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5515bc773d084a106394ac81b19ca597</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:41</sys_updated_on>
+        <sys_user_role display_value="x_snc_testapproval.approver" name="x_snc_testapproval.approver">ed15fc77a1084a103d18e86315a30a34</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

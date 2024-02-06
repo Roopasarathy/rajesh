@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_testapproval_document_approval_category" version="2" view="text_search">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_snc_testapproval_document_approval_category" element="NULL" name="x_snc_testapproval_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">9515bc7745084a10d5b71c975eeff27e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+            <sys_id>5915bc77d7084a109690561ef14ca47e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_testapproval_document_approval_category" element="NULL" name="x_snc_testapproval_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">9515bc7745084a10d5b71c975eeff27e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+            <sys_id>1d15bc77dd084a10891977ba21a3a57e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>use_flow</element>
+            <list_id display_value="x_snc_testapproval_document_approval_category" element="NULL" name="x_snc_testapproval_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">9515bc7745084a10d5b71c975eeff27e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+            <sys_id>1115bc7720084a106b3e53c7b479157e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_snc_testapproval_document_approval_category" element="NULL" name="x_snc_testapproval_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">9515bc7745084a10d5b71c975eeff27e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+            <sys_id>dd15bc777d084a108eab2ae23ce3227e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_testapproval_document_approval_category</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9515bc7745084a10d5b71c975eeff27e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_testapproval_document_approval_category</sys_name>
+            <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_testapproval_document_approval_category_text_search</sys_update_name>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

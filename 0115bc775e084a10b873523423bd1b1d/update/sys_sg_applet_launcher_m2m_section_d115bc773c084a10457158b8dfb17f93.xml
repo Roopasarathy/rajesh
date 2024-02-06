@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="TestApproval">1115bc7726084a10d8f3d7215f212193</applet_launcher>
+        <order>20</order>
+        <section display_value="New Document Approvals">dd15bc7723084a10dfe895ccfdb9cb93</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:27</sys_created_on>
+        <sys_id>d115bc773c084a10457158b8dfb17f93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_d115bc773c084a10457158b8dfb17f93</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:27</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

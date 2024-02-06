@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>This is the submitter role for the document approval app. An user with this role can create documents, read their own documents, edit their own documents when status is not submitted and delete their own documents. They can also read data from document approval category.  </description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_testapproval.submitter</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>submitter</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:26</sys_created_on>
+        <sys_id>2515fc77d3084a10c7ea3c11d2e8aa35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testapproval.submitter</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_user_role_2515fc77d3084a10c7ea3c11d2e8aa35</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:26</sys_updated_on>
+    </sys_user_role>
+</record_update>

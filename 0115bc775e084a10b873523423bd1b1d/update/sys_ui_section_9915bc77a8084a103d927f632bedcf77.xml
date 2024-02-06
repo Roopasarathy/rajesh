@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9915bc77a8084a103d927f632bedcf77" sys_domain="global" table="x_snc_testapproval_document_approver" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver</element>
+            <position>0</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>d115bc77e3084a1097d2f68e6e73dc78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>1d15bc7725084a10a2d386a50921c078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>9d15bc7743084a1063c9d2fe30647a76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>document</element>
+            <position>3</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>d515bc779f084a1029c25b6f64ad0b77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>9115bc77f1084a109d78d78ed8fb5376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>1915bc7749084a100b4c6370f671c376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>6</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>d115bc7785084a104e64d4356a2a1175</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_id>5915bc7794084a10b60b9abe0cfae775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_testapproval_document_approver" sys_domain="global" view="Default view">9915bc77a8084a103d927f632bedcf77</sys_ui_section>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_testapproval_document_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+            <sys_created_on>2024-02-05 23:57:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9915bc77a8084a103d927f632bedcf77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_testapproval_document_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+            <sys_update_name>sys_ui_section_9915bc77a8084a103d927f632bedcf77</sys_update_name>
+            <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+            <sys_updated_on>2024-02-05 23:57:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

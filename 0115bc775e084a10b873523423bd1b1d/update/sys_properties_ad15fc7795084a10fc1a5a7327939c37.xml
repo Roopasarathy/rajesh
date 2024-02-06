@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Add Hex code of colour required for the button.&#13;
+default colour: #01778E</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_testapproval.u_button_bgcolor</name>
+        <read_roles/>
+        <suffix>button_bgcolor</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>rajeshkumar.vanapart.snf.aus@snc</sys_created_by>
+        <sys_created_on>2024-02-05 23:57:19</sys_created_on>
+        <sys_id>ad15fc7795084a10fc1a5a7327939c37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testapproval.u_button_bgcolor</sys_name>
+        <sys_package display_value="TestApproval" source="x_snc_testapproval">0115bc775e084a10b873523423bd1b1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApproval">0115bc775e084a10b873523423bd1b1d</sys_scope>
+        <sys_update_name>sys_properties_ad15fc7795084a10fc1a5a7327939c37</sys_update_name>
+        <sys_updated_by>rajeshkumar.vanapart.snf.aus@snc</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:57:19</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad15fc7795084a10fc1a5a7327939c37"/>
+</record_update>
